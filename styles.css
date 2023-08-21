@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+
+
+
+.card {
+	 justify-content: center;
+    background-color: lightgray;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    max-width: 300px;
+	 
+  }
+.card h1{
+	color:black;
+	font-size:3em;
+}
+.card p{
+	font-size:2em
+}
+.card button{
+	width:150px;
+	height:70px;
+	font-size:2em;
+	background-color:lightcoral;
+	color:white;
+	border:none;
+	border-radius:5px;
+	padding:0px;
+}
